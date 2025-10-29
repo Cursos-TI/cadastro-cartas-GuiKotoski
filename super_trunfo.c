@@ -4,7 +4,7 @@
 void limpar_buffer() {
     int c;
     while ((c = getchar()) != '\n' && c != EOF) {
-        // descarta caracteres até encontrar nova linha ou EOF
+        // descarta caracteres até encontrar nova linha
     }
 }
 
